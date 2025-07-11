@@ -1,6 +1,7 @@
 pip>=24.0
 pandas
 numpy
+tensorflow
 scikit-learn
 matplotlib
 streamlit
