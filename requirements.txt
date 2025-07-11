@@ -1,8 +1,6 @@
 pip>=24.0
-tensorflow==2.10.0
 pandas
 numpy
 scikit-learn
 matplotlib
 streamlit
-tensorboard
